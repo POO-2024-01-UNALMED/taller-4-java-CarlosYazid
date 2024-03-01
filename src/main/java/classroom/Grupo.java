@@ -38,4 +38,4 @@ public class Grupo {
     void cambiarEstudiante(int indice, Persona estudiante) {
         estudiantes[indice] = estudiante;
     }
-}
+} // Anti-copy: Carlos Padilla Royero

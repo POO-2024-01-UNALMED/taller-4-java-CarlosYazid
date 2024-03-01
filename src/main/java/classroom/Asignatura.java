@@ -2,6 +2,21 @@ package classroom;
 
 public class Asignatura {
 
+    /*
+    *  Taller 4 Java
+    *  Realizado el 29 de febrero del 2024
+    *  Desarrollado por Carlos Yazid Padilla
+    *  Topico: Sobrecarga y Destructores
+    * 
+    *  Dependencias:
+    * 
+    *  - classroom > Asignatura
+    *  - classroom > Grupo
+    *  - classroom > Persona
+    *  - classroom > Tipo
+    * 
+    */
+
     public String nombre;
     String n = nombre;
     public int codigoInterno;
@@ -58,4 +73,4 @@ public class Asignatura {
     public void setCodigoInterno(double codigoInterno) {
         this.codigoInterno = (int) codigoInterno;
     }
-}
+} // Anti-copy: Carlos Padilla Royero

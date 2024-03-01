@@ -2,7 +2,7 @@ package classroom;
 
 public class Persona {
 
-     long cedula;
+    long cedula;
     String nombre;
     static int totalPersonas;
     
@@ -52,4 +52,4 @@ public class Persona {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-}
+} // Anti-copy: Carlos Padilla Royero
